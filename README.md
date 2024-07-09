@@ -38,7 +38,8 @@ This project performs an in-depth analysis and visualization of government bond 
     ```
 
 ## Example Output
-![Yield Curve Example](yield_curve_example.png)
+![Yield Curve for Australia](https://github.com/bruce1095/Live-Global-Yield-Curves-Plot/assets/37047661/4e00d966-30c1-478e-8b15-f48ea17430bf)
+
 
 ## License
 This project is licensed under the MIT License - see the LICENSE file for details.
